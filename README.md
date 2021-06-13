@@ -7,6 +7,18 @@
 
 - :eyes: I’m actively looking for a full-time job as a front-end engineer, here is my [resume](https://github.com/mariavarvaroi/mariavarvaroi/blob/cd3440caa1374711ebad557f63dabb222ee954a4/Maria%20Varvaroi.pdf)
 
+## Languages and Tools:
+
+<code><img src="./assets/css3.png" height="40px"/></code> 
+<code><img src="./assets/html.png" height="40px"/></code> 
+<code><img src="./assets/javascript.png" height="40px"/></code> 
+<code><img src="./assets/react.png" height="40px"/></code> 
+<code><img src="./assets/gatsby.png" height="40px"/></code> 
+<code><img src="./assets/graphql.png" height="40px"/></code> 
+<code><img src="./assets/nextjs.png" height="40px"/></code> 
+<code><img src="./assets/mui.png" height="40px"/></code> 
+<code><img src="./assets/figma.png" height="40px"/></code> 
+
 - 📫 How to reach me: 
 
    [Email](mailto:varvaroimaria@gmail.com)
