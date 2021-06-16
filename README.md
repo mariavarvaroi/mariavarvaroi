@@ -17,6 +17,7 @@
 <code><img src="./assets/graphql.png" height="40px"/></code> 
 <code><img src="./assets/nextjs.png" height="40px"/></code> 
 <code><img src="./assets/mui.png" height="40px"/></code> 
+<code><img src="./assets/sass.png" height="40px"/></code> 
 <code><img src="./assets/figma.png" height="40px"/></code> 
 
 - 📫 How to reach me: 
