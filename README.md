@@ -21,7 +21,7 @@
 <code><img src="./assets/mui.png" height="40px"/></code> 
 <code><img src="./assets/sass.png" height="40px"/></code> 
 <code><img src="./assets/figma.png" height="40px"/></code> 
-<code><img src="./assets/solidity.png" height="40px"/></code> 
+
 
 - 📫 How to reach me: 
 
