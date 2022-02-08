@@ -1,7 +1,9 @@
 ### Hi there 👋, my name is Maria
 #### I am a self-taught React developer
 
-- 🔭 I’m currently working on [Educator's assistant](https://www.ajutoruleducatorului.ro/) - an online platform that aims to empower preschool educators to teach kids better, to manage class easier and to quiz kids smarter. The product is launched, 5k+ users ✨
+- 🔭 I’m currently working as a React developer at a big software company
+
+- 📚 One of my most recent projects is [Educator's assistant](https://www.ajutoruleducatorului.ro/) - an online platform that aims to empower preschool educators to teach kids better, to manage class easier and to quiz kids smarter. The product is launched, 5k+ users ✨
 
 - 🌱 I’m currently learning Solidity, NextJS, Prisma 
 
@@ -19,6 +21,7 @@
 <code><img src="./assets/mui.png" height="40px"/></code> 
 <code><img src="./assets/sass.png" height="40px"/></code> 
 <code><img src="./assets/figma.png" height="40px"/></code> 
+<code><img src="./assets/solidity.png" height="40px"/></code> 
 
 - 📫 How to reach me: 
 
