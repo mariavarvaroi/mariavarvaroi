@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on [Educator's assistant](https://www.ajutoruleducatorului.ro/) - an online platform that aims to empower preschool educators to teach kids better, to manage class easier and to quiz kids smarter. The product is launched, 5k+ users ✨
 
-- 🌱 I’m currently learning NextJS, Prisma 
+- 🌱 I’m currently learning Solidity, NextJS, Prisma 
 
-- :eyes: I’m actively looking for a full-time job as a front-end engineer, here is my [resume](https://github.com/mariavarvaroi/mariavarvaroi/blob/cd3440caa1374711ebad557f63dabb222ee954a4/Maria%20Varvaroi.pdf)
+- :eyes: I’m actively looking for a full-time job as a front-end engineer in a web3 company, here is my [resume](https://github.com/mariavarvaroi/mariavarvaroi/blob/cd3440caa1374711ebad557f63dabb222ee954a4/Maria%20Varvaroi.pdf)
 
 ## Languages and Tools:
 
