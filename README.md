@@ -7,7 +7,8 @@
 
 - 🌱 I’m currently learning Solidity, NextJS, Prisma 
 
-- :eyes: I’m actively looking for a full-time job as a front-end engineer in a web3 company, here is my [resume](https://github.com/mariavarvaroi/mariavarvaroi/blob/cd3440caa1374711ebad557f63dabb222ee954a4/Maria%20Varvaroi.pdf)
+- :eyes: I’m actively looking for a full-time job as a front-end engineer in a web3 company, here is my [resume]
+(https://github.com/mariavarvaroi/mariavarvaroi/blob/main/assets/Maria%20Varvaroi.pdf)
 
 ## Languages and Tools:
 
